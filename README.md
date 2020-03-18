@@ -1,6 +1,8 @@
 # Vue-Js and .Net Core
 
-Getting started with Vue Js and .NET Core 3
+Getting started with Vue Js and .NET Core 3 is available in
+https://www.c-sharpcorner.com/article/getting-started-with-vue-js-and-net-core-32/
+
 
 ## Steps to run
 
