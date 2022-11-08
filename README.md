@@ -1,13 +1,16 @@
-# Vue-Js and .Net Core
+# Vue Scheduler Integrate with ASP.NET CORE application
 
-Getting started with Vue Js and .NET Core 3 is available in
-https://www.c-sharpcorner.com/article/getting-started-with-vue-js-and-net-core-32/
+This sample explains about how to work Vue Scheduler in ASP.NET Core application.
 
+Getting started with Vue Js and .NET Core 3 is available [here](https://www.c-sharpcorner.com/article/getting-started-with-vue-js-and-net-core-32/).
 
-## Steps to run
+## Prerequisites
 
-```
-git clone https://github.com/SyncfusionSamples/ej2-core-scheduler-with-vue core-with-vue
-cd core-with-vue
-```
-Compile and run the project.
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
