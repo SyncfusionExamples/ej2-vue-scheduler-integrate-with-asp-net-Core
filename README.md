@@ -1,12 +1,6 @@
 # Vue Scheduler Integrate with ASP.NET CORE application
 
-## Repository Description
-
-This sample demonstrates how to integrate Syncfusion Vue Scheduler with an ASP.NET Core application. It provides a complete working example of combining Vue.js frontend components with ASP.NET Core backend services to create a fully functional scheduling application with event management capabilities.
-
-## Overview
-
-This project showcases the seamless integration of Syncfusion's Vue Scheduler component with ASP.NET Core 3, enabling developers to build modern web applications with interactive scheduling features. The application demonstrates best practices for connecting a Vue.js frontend to a .NET Core backend API, including data binding, event handling, and real-time updates.
+This sample demonstrates integrating the [Vue Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler) with an ASP.NET Core application, combining a Vue.js frontend with backend services to build a complete scheduling solution. It showcases data binding, event handling, and real-time updates, providing a practical example of creating modern web applications with interactive scheduling features and efficient frontend–backend communication.
 
 ## Features
 
@@ -21,7 +15,6 @@ This project showcases the seamless integration of Syncfusion's Vue Scheduler co
 * Visual Studio 2022
 * Node.js and npm (for Vue.js development)
 * .NET 6.0 SDK or later
-* Basic knowledge of Vue.js and ASP.NET Core
 
 ## Project Structure
 
